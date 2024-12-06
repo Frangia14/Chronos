@@ -1,0 +1,1 @@
+export { default } from "/Users/kairos/Documents/GitHub/Chronos/node_modules/@nuxt/image-edge/dist/runtime/components/nuxt-img.mjs"

@@ -1,0 +1,1 @@
+export { default } from "file:///Users/kairos/Documents/GitHub/Chronos/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
