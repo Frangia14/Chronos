@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     "nuxt-icon",
   ],
   app: {
-    baseURL: '/Chronos/',  // Nome della repository su GitHub
+    baseURL: '/Chronos/content',  // Nome della repository su GitHub
     head: {
       link: [
         {
