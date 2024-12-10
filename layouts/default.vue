@@ -13,7 +13,7 @@
     <!-- background -->
     <Container class="relative">
       <div class="absolute top-0 right-0">
-        <NuxtImg
+        <@nuxt/image
           src="img/bg-glow.png"
           aria-hidden="true"
           class="w-[44rem]"
