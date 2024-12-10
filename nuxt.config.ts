@@ -40,4 +40,7 @@ export default defineNuxtConfig({
   tailwindcss: {
     cssPath: "./assets/css/tailwind.css",
   },
+  generate: {
+    fallback: "404.html",  // Aggiunto per il refresh delle pagine su GitHub Pages
+  },
 });

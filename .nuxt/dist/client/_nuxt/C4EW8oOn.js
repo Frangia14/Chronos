@@ -1,0 +1,1 @@
+import{_ as o}from"./DlAUqK2U.js";import{o as s,c as t,a as c,I as a}from"./BILFuKO1.js";const r={},n={class:"not-prose"},l={class:"flex flex-col gap-8"};function _(e,d){return s(),t("div",n,[c("div",l,[a(e.$slots,"default")])])}const p=o(r,[["render",_]]);export{p as default};
